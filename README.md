@@ -54,35 +54,62 @@ O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma solução d
 O objetivo principal é transformar dados brutos de emplacamentos em insights estratégicos para montadoras, concessionárias e analistas de mercado, permitindo entender o comportamento do consumidor diante das flutuações econômicas ao longo dos anos (2020 a 2025).
 
 3. Arquitetura e Estrutura do Dashboard
-O painel foi desenhado com uma interface moderna em modo escuro (dark mode) na barra lateral e áreas de dados em cartões flutuantes claros, priorizando a escalabilidade e a experiência do usuário (UI/UX).
-2.1. Filtros e Navegação (Barra Lateral)
-Menu de Navegação: Alternância entre visões estratégicas (atualmente na aba Visão Executiva, com suporte planejado para Performance de Produtos).
-Filtros Temporais: Seleção multi escolha por anos de análise: 2020, 2021, 2022, 2023, 2024 e 2025.
-Filtros Segmentados: Menus suspensos (dropdowns) para segmentação por Marca e Categoria do veículo.
-2.2. Indicadores Chave de Desempenho (KPIs)
-Posicionados no topo do painel para visualização imediata da saúde do mercado:
-Faturamento Médio: R$ 1,45 Tri
-Unidades Vendidas: 11,7 Mi
-Ticket Médio: R$ 123,4 Mil
-Média da Selic: 9,72%
+   
+1. Visão Geral do Projeto 
+O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma ferramenta de inteligência de mercado projetada para analisar o comportamento do setor automotivo brasileiro no período de 2020 a 2025. O principal diferencial do relatório é o cruzamento de métricas internas de vendas (volume de emplacamentos, faturamento e market share por marca/modelo) com variáveis macroeconômicas (evolução da Taxa Selic), permitindo identificar padrões de consumo e a resiliência do mercado diante de políticas monetárias restritivas.
 
-5. Análises Visuais e Gráficos
-📊 O Impacto dos Juros (Selic) na Intenção de Compra de Veículos
-Tipo de Gráfico: Gráfico de combinação (Colunas e Linhas).
-Eixo X: Linha do tempo anual (2020 - 2025).
-Variáveis:
-Colunas (Azul): Faturamento Médio por ano (ex: R$ 186,3 Bi em 2020 evoluindo para R$ 290,2 Bi em 2025).
-Linha (Azul Escuro): Média da Selic (% a.a.), demonstrando a correlação direta entre o aumento dos juros e o comportamento do faturamento.
-🗺️ Participação de Mercado (Market Share)
-Tipo de Gráfico: Treemap (Mapa de Árvore).
-Objetivo: Identificar rapidamente a dominância das marcas no setor automotivo por faturamento acumulado.
-Destaques Visuais: Fiat (281 Bi) e Volkswagen (215 Bi) liderando o volume visual, seguidos por Chevrolet (209 Bi) e Toyota (194 Bi).
-🎯 Concentração de Vendas: Desempenho por Modelo
-Tipo de Gráfico: Gráfico de Dispersão (Scatter Plot).
-Eixos:
-Eixo Y: Unidades Vendidas (Volume).
-Eixo X: Média de Preço Médio FIPE (R$) (Preço).
-Legenda/Cores: Segmentação por marcas (BYD, CAOA, Chevrolet, Citroën, Fiat, Ford, GWM, entre outras).
-Insight Gerado: Permite analisar o posicionamento de preço versus o volume de vendas de cada modelo, identificando outliers de mercado (modelos muito caros com baixo volume vs. modelos populares de alto giro).
+2. Arquitetura e Estrutura das Páginas
+O relatório está dividido em duas visões complementares (telas), otimizadas para leitura do nível estratégico ao tático.
+
+Tela 1: Indicadores Macroeconômicos e Market Share
+
+Esta tela contextualiza o desempenho financeiro e de volume contra o cenário macroeconômico global do período.
+
+Cards de Indicadores Chave (KPIs Superiores):
+Faturamento Médio (R$ 1,45 Tri): Receita total estimada movimentada pelo setor de novos emplacamentos ao longo do período histórico monitorado.
+
+Unidades Vendidas (11,7 Mi): Volume consolidado de veículos emplacados.
+
+Ticket Médio (R$ 123,4 Mil): Valor médio gasto por veículo comercializado no país.
+
+Média da Selic (9,72%): Média ponderada da taxa básica de juros da economia no intervalo de anos coberto.
+
+Componentes Visuais (Gráficos):
+O Impacto dos Juros (Selic) na Intenção de Compra de Veículos: Gráfico combinado (Barras + Linha). Apresenta a evolução anual do faturamento (barras azuis) e a taxa de juros Selic média por ano (linha azul escura). Mostra o faturamento subindo de R$ 186,3 Bi em 2020 para R$ 290,2 Bi em 2025, apesar da escalada da Selic de 2,81% para 13,96%.
+
+Participação de Mercado (Market Share): Gráfico de Treemap estruturado por faturamento de marcas. Evidencia a liderança do ecossistema das seguintes montadoras:
+
+Fiat: R$ 281 Bi
+
+Volkswagen: R$ 215 Bi
+
+Chevrolet: R$ 209 Bi
+
+Toyota: R$ 194 Bi
+
+Concentração de Vendas (Desempenho por Modelo): Gráfico de Dispersão (Bubble Chart) que cruza o preço médio de tabela FIPE (Eixo X) com o volume absoluto de unidades vendidas (Eixo Y), mapeando a densidade de modelos no mercado e destacando outliers de grande volume ou preço elevado.
+
+Tela 2: Desempenho por Modelo e Filtros de Negócio
+
+Esta página provê visões analíticas específicas por modelo de veículo e permite interações temporais diretas.
+
+Componentes de Controle Interativo:
+Segmentação de Ano (Slicer Superior): Filtros em botões para seleção de anos individuais (2020, 2021, 2022, 2023, 2024, 2025) para recalcular dinamicamente os rankings e insights.
+
+Componentes Visuais (Gráficos):
+Líderes de Vendas (Unidades Emplacadas por Veículo): Gráfico de barras horizontais indicando o top 5 de volume de emplacamentos.
+
+Líder isolado: Fiat Strada (709,8 Mil unidades), seguido por Chevrolet Onix (573,7 Mil), Hyundai HB20 (540,2 Mil), Fiat Argo (475,1 Mil) e Volkswagen T-Cross (436,9 Mil).
+
+Geração de Receita por Modelo de Veículo: Gráfico de barras horizontais focado no retorno financeiro gerado. Revela uma mudança de comportamento: embora a Fiat Strada lidere também em faturamento (R$ 78 Bi), modelos comerciais e SUVs mais caros, como a Toyota Hilux (R$ 71 Bi) e o Jeep Compass (R$ 66 Bi), sobem posições cruciais devido ao alto valor agregado do ticket.
+
+Desempenho Financeiro por Segmento de Mercado: Área dedicada para análise da evolução percentual das categorias (ex: Hatch, Sedan, SUV, Picape).
+
+3. Inteligência de Negócio & Insights Extraídos
+O dashboard inclui uma seção automatizada de Storytelling/Insights de negócios na segunda tela, sintetizando as seguintes descobertas:
+
+Premiumização e Mudança de Categoria: Entre 2020 e 2025, os segmentos tradicionais de entrada (como Hatch e Sedan) sofreram forte compressão de mercado. Em contrapartida, as categorias de SUVs e Picapes expandiram agressivamente. Conclui-se que o consumidor brasileiro migrou o perfil de compra para veículos de maior valor de tabela.
+
+A Força do Consumidor de Alta Renda: O mercado demonstrou um comportamento contra-cíclico. Mesmo com a taxa Selic saltando de 2,81% em 2020 para 13,96% em 2025, o faturamento estimado cresceu continuamente. Isso comprova que as vendas tornaram-se altamente dependentes do público de alta renda, cuja decisão de compra é menos sensível a taxas de juros de financiamentos populares e bancários.
 
 
