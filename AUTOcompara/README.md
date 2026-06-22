@@ -30,7 +30,7 @@ Os dados de preço, consumo, potência e demais especificações são **estimati
 ---
 
 ## Equipe 
-projeto desenvolvido pela integrante ***Eduarda Nobre***, com ajuda de seus colegas;
+site desenvolvido pela integrante ***Eduarda Nobre***, com ajuda de seus colegas;
 - William Bertolotto  
 - Diana Soares
 - Tainara Sales
