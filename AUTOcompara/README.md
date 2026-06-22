@@ -1,4 +1,4 @@
-# **AUTO**COMPARA — Site para complementação do trabalho
+# **AUTO**COMPARA — Plataforma Web interativa
 
 Projeto Final de Curso · Turma 2 · Análise de Dados · Generation Brasil
 
