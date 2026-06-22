@@ -10,8 +10,8 @@ A plataforma não é apenas um site estático. Ela une Engenharia de Dados (ao c
 ## Arquivos do projeto
 ```
 autocompara/
-├── fotos           ← fotos dos alunos envolvidos
-├── logos           ← fotos logos das marcas presentes
+├── fotos           ← Fotos dos alunos envolvidos
+├── logos           ← Fotos logos das marcas presentes
 ├── index.html      ← Página principal
 ├── style.css       ← Estilos (cores branco, preto, azul)
 ├── data.js         ← Base de dados dos 50 veículos
@@ -35,5 +35,6 @@ Os dados de preço, consumo, potência e demais especificações são **estimati
 - William Bertolotto
 - Diana Soares
 - Tainara Sales
+- Douglas Prudenciano
 
 **Turma 2 · Análise de Dados · Generation Brasil · 2025**
