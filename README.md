@@ -2,6 +2,9 @@
 Tema: Inteligência de Mercado Automotivo - Market Share e Evolução da Frota
 Alunos: Diana, Douglas, Duda, Taynara, Thais e Will.
 
+O Problema de Negócio
+O setor automotivo brasileiro vive um momento de transformação histórica: a transição dos populares para os SUVs, a eletrificação da frota e a chegada agressiva de novas marcas asiáticas. As montadoras precisam de visibilidade total sobre o comportamento do mercado para guiar suas estratégias de vendas e produção. Seu desafio é estruturar um painel de inteligência competitiva que analise o histórico de emplacamentos por marca, modelo e categoria. O objetivo é cruzar essas vendas com o cenário econômico do país, entregando para a diretoria comercial um mapeamento claro de quem está ganhando e perdendo. 
+
 Visão Geral do Projeto
 O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma solução de inteligência de negócios desenvolvida para analisar o mercado automotivo brasileiro e correlacionar o desempenho de vendas e faturamento com os principais indicadores macroeconômicos (especificamente a taxa Selic).
 O objetivo principal é transformar dados brutos de emplacamentos em insights estratégicos para montadoras, concessionárias e analistas de mercado, permitindo entender o comportamento do consumidor diante das flutuações econômicas ao longo dos anos (2020 a 2025).
