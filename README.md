@@ -113,14 +113,13 @@ Premiumização e Mudança de Categoria: Entre 2020 e 2025, os segmentos tradici
 
 A Força do Consumidor de Alta Renda: O mercado demonstrou um comportamento contra-cíclico. Mesmo com a taxa Selic saltando de 2,81% em 2020 para 13,96% em 2025, o faturamento estimado cresceu continuamente. Isso comprova que as vendas tornaram-se altamente dependentes do público de alta renda, cuja decisão de compra é menos sensível a taxas de juros de financiamentos populares e bancários.
 
-Insights: 
 Entre 2020 e 2025, as fatias de carros tradicionais (como Hatch e Sedan) ficaram espremidas, enquanto o segmento de SUVs (em roxo) e Picapes explodiu. O consumidor brasileiro passou a comprar carros mais caros.
 
 Mesmo com a Selic saltando de 2,81% em 2020 para 13,96% em 2025, o faturamento estimado cresceu continuamente. Isso indica que: O mercado tornou-se mais dependente de compradores de alta renda (que compram SUVs/Picapes e dependem menos de financiamento bancário comum).
 
 Três marcas (Fiat com 281 Bi, Volkswagen com 215 Bi e Chevrolet com 209 Bi) dominam a maior parte do bolo financeiro dos emplacamentos. Elas conseguem equilibrar um portfólio que transita entre o carro de entrada (volume) e SUVs comerciais (margem).
 
-Taxa Selic não influencia tanto nas vendas de Luxo. Foi analisado que quanto maior a taxa selic maior a queda de vendas populares e carros de Luxo categorias como caras como SUV e picape se mantém ou sobem gradativamente.
+A Taxa Selic não influencia tanto nas vendas de Luxo. Foi analisado que quanto maior a taxa Selic maior a queda de vendas populares enquanto categorias de maior valor agregado, como SUVs e Picapes, mantêm-se estáveis ou crescem gradativamente.
 
 
 Aplicação Web
