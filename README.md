@@ -123,4 +123,22 @@ Três marcas (Fiat com 281 Bi, Volkswagen com 215 Bi e Chevrolet com 209 Bi) dom
 Taxa Selic não influencia tanto nas vendas de Luxo. Foi analisado que quanto maior a taxa selic maior a queda de vendas populares e carros de Luxo categorias como caras como SUV e picape se mantém ou sobem gradativamente.
 
 
+Aplicação Web
+
+AUTOCOMPARA — Compare. Decida. Dirija. 
+
+O AUTOCOMPARA é uma plataforma digital inteligente voltada ao consumidor final e a analistas de mercado, projetada para simplificar a jornada de escolha e compra de automóveis. A aplicação resolve a dor da fragmentação de informações no setor automotivo, centralizando especificações técnicas, preços (tabela FIPE), dados de mercado e histórico de vendas em um único ambiente comparativo e altamente visual. 
+
+COMPARE: Permite ao usuário selecionar múltiplos veículos simultaneamente, filtrando por marcas, modelos, faixas de preço e categorias (Hatch, Sedan, SUV, Picape). O motor da busca realiza o cruzamento de dados técnicos obtidos de forma automatizada.
+
+DECIDA: Fornece clareza analítica. Ao integrar inteligência de mercado, o usuário entende se o veículo desejado é uma tendência de mercado, qual seu ticket médio e como ele se posiciona frente aos concorrentes em desvalorização e volume de vendas.
+
+DIRIJA: O objetivo final da conversão. Reduz o tempo de pesquisa do consumidor (jornada de compra), direcionando-o de forma assertiva e consciente para o fechamento do negócio.
+
+
+Fonte de dados:
+Emplacamentos de veículos e marcas no Brasil - AUTOO 
+
+
+
 
