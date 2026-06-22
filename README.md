@@ -2,6 +2,10 @@
 Tema: Inteligência de Mercado Automotivo - Market Share e Evolução da Frota
 Alunos: Diana, Douglas, Duda, Taynara, Thais e Will.
 
+Visão Geral do Projeto
+O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma solução de inteligência de negócios desenvolvida para analisar o mercado automotivo brasileiro e correlacionar o desempenho de vendas e faturamento com os principais indicadores macroeconômicos (especificamente a taxa Selic).
+O objetivo principal é transformar dados brutos de emplacamentos em insights estratégicos para montadoras, concessionárias e analistas de mercado, permitindo entender o comportamento do consumidor diante das flutuações econômicas ao longo dos anos (2020 a 2025).
+
 Documentação do Projeto: Etapas de Desenvolvimento
 Esta documentação detalha o ciclo de vida do projeto, desde a concepção e organização da equipe até a entrega final, destacando as metodologias, ferramentas e estratégias utilizadas para garantir a eficiência e a qualidade do trabalho.
 
@@ -47,13 +51,7 @@ Inclusão de ganchos lógicos para garantir uma estrutura clara com início, mei
 6. Revisão Geral e Garantia de Qualidade (QA)
 Por fim, realizamos um processo de auditoria coletiva. Todo o grupo revisou o projeto de ponta a ponta, inspecionando códigos, dashboards, documentação e a aplicação para identificar e corrigir possíveis lacunas, erros de lógica ou inconsistências antes da entrega definitiva.
 
-Dashboards interativos
-
-1. Visão Geral do Projeto
-O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma solução de inteligência de negócios desenvolvida para analisar o mercado automotivo brasileiro e correlacionar o desempenho de vendas e faturamento com os principais indicadores macroeconômicos (especificamente a taxa Selic).
-O objetivo principal é transformar dados brutos de emplacamentos em insights estratégicos para montadoras, concessionárias e analistas de mercado, permitindo entender o comportamento do consumidor diante das flutuações econômicas ao longo dos anos (2020 a 2025).
-
-3. Arquitetura e Estrutura do Dashboard
+Arquitetura e Estrutura do Dashboard
    
 1. Visão Geral do Projeto 
 O Dashboard Emplacamentos de Veículos e Impactos Econômicos é uma ferramenta de inteligência de mercado projetada para analisar o comportamento do setor automotivo brasileiro no período de 2020 a 2025. O principal diferencial do relatório é o cruzamento de métricas internas de vendas (volume de emplacamentos, faturamento e market share por marca/modelo) com variáveis macroeconômicas (evolução da Taxa Selic), permitindo identificar padrões de consumo e a resiliência do mercado diante de políticas monetárias restritivas.
@@ -111,5 +109,15 @@ O dashboard inclui uma seção automatizada de Storytelling/Insights de negócio
 Premiumização e Mudança de Categoria: Entre 2020 e 2025, os segmentos tradicionais de entrada (como Hatch e Sedan) sofreram forte compressão de mercado. Em contrapartida, as categorias de SUVs e Picapes expandiram agressivamente. Conclui-se que o consumidor brasileiro migrou o perfil de compra para veículos de maior valor de tabela.
 
 A Força do Consumidor de Alta Renda: O mercado demonstrou um comportamento contra-cíclico. Mesmo com a taxa Selic saltando de 2,81% em 2020 para 13,96% em 2025, o faturamento estimado cresceu continuamente. Isso comprova que as vendas tornaram-se altamente dependentes do público de alta renda, cuja decisão de compra é menos sensível a taxas de juros de financiamentos populares e bancários.
+
+Insights: 
+Entre 2020 e 2025, as fatias de carros tradicionais (como Hatch e Sedan) ficaram espremidas, enquanto o segmento de SUVs (em roxo) e Picapes explodiu. O consumidor brasileiro passou a comprar carros mais caros.
+
+Mesmo com a Selic saltando de 2,81% em 2020 para 13,96% em 2025, o faturamento estimado cresceu continuamente. Isso indica que: O mercado tornou-se mais dependente de compradores de alta renda (que compram SUVs/Picapes e dependem menos de financiamento bancário comum).
+
+Três marcas (Fiat com 281 Bi, Volkswagen com 215 Bi e Chevrolet com 209 Bi) dominam a maior parte do bolo financeiro dos emplacamentos. Elas conseguem equilibrar um portfólio que transita entre o carro de entrada (volume) e SUVs comerciais (margem).
+
+Taxa Selic não influencia tanto nas vendas de Luxo. Foi analisado que quanto maior a taxa selic maior a queda de vendas populares e carros de Luxo categorias como caras como SUV e picape se mantém ou sobem gradativamente.
+
 
 
