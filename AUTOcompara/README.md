@@ -37,4 +37,4 @@ Os dados de preço, consumo, potência e demais especificações são **estimati
 - Tainara Sales
 - Douglas Prudenciano
 
-**Turma 2 · Análise de Dados · Generation Brasil · 2025**
+**Turma 2 · Análise de Dados · Generation Brasil · 2026**
