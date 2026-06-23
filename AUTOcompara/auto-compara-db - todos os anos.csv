@@ -1,0 +1,75 @@
+Marca,Veículo,Categoria,Ano lançamento,Preço médio hoje (R$),Consumo médio (km/l),Potência (cv),Porta-malas/Caçamba,Manutenção,Desvalorização,Segurança
+BYD,BYD Dolphin,Hatch,2023,150–170 mil,15–18 (EV),95–130,345 L,Baixa,Baixa,Excelente
+BYD,BYD Dolphin Mini,Hatch,2024,115–130 mil,15–18 (EV),95,230 L,Baixa,Baixa,Excelente
+BYD,BYD Song Plus DM-i,SUV,2021,220–240 mil,15–18 (H),180,574 L,Média,Baixa,Excelente
+BYD,BYD Song Pro,SUV,2023,200–230 mil,14–17 (H),180,574 L,Média,Baixa,Excelente
+CAOA,CAOA Chery Tiggo 5X,SUV,2018,126–141 mil,7–12 (G/E),147–150,340 L,Média,Alta,Boa
+CAOA,CAOA Chery Tiggo 7,SUV,2017,150–170 mil,8–12 (G/E),157,475 L,Média,Alta,Boa
+CAOA,CAOA Chery Tiggo 8,SUV,2019,180–210 mil,7–11 (G/E/H),187,193 L,Média,Alta,Boa
+Chevrolet,Chevrolet Cruze Sedan,Sedan,2011,110–130 mil,8–14 (G/E),150–153,440 L,Média,Média,Boa
+Chevrolet,Chevrolet Montana,Picape,2003,115–135 mil,10–12 (G/E),133,874 L,Média,Média,Boa
+Chevrolet,Chevrolet Onix,Hatch,2012,82–95 mil,"11,5–13,9 (G/E)",82–116,275 L,Acessível,Média,Boa
+Chevrolet,Chevrolet Onix Plus,Sedan,2019,95–110 mil,"10,5–13,5 (G/E)",116,469 L,Acessível,Média,Boa
+Chevrolet,Chevrolet S10,Picape,1995,180–240 mil,8–11 (D),180–200,1061 L,Cara,Baixa,Excelente
+Chevrolet,Chevrolet Spin,Minivan,2012,110–130 mil,9–12 (G/E),106–111,710 L,Média,Média,Boa
+Chevrolet,Chevrolet Tracker,SUV,2013,130–160 mil,9–12 (G/E),116–133,393 L,Média,Média,Boa
+Citroën,Citroën Basalt,SUV,2024,120–140 mil,11–13 (G/E),130,410 L,Média,Média,Boa
+Citroën,Citroën C3,Hatch,2002,75–95 mil,11–13 (G/E),82–120,300 L,Média,Alta,Regular
+Citroën,Citroën C4 Cactus,SUV,2018,95–117 mil,10–16 (G/E),118–173,320 L,Média,Alta,Boa
+Fiat,Fiat Argo,Hatch,2017,80–95 mil,"11–13,5 (G/E)",77–109,300 L,Acessível,Média,Boa
+Fiat,Fiat Cronos,Sedan,2018,95–115 mil,11–13 (G/E),109,525 L,Acessível,Média,Boa
+Fiat,Fiat Fastback,SUV,2022,135–155 mil,10–13 (G/E),130–185,600 L,Média,Média,Boa
+Fiat,Fiat Fiorino,Furgão,1980,95–110 mil,9–12 (G/E),85,620 L,Acessível,Média,Regular
+Fiat,Fiat Grand Siena,Sedan,2012,45–60 mil (usado),9–13 (G/E),85–115,520 L,Acessível,Alta,Regular
+Fiat,Fiat Mobi,Hatch,2016,65–75 mil,12–14 (G/E),77,235 L,Baixa,Alta,Regular
+Fiat,Fiat Pulse,SUV,2021,110–130 mil,11–13 (G/E),130,370 L,Média,Média,Boa
+Fiat,Fiat Siena,Sedan,1997,27–35 mil (usado),8–13 (G/E),88,500 L,Acessível,Alta,Regular
+Fiat,Fiat Strada,Picape,1998,95–115 mil,"10–12,5 (G/E)",88–120,844 L,Acessível,Baixa,Boa
+Fiat,Fiat Toro,Picape,2016,140–170 mil,8–11 (G/E/D),130–185,820 L,Cara,Média,Boa
+Fiat,Fiat Uno,Hatch,1983,65–75 mil,12–14 (G/E),77,290 L,Baixa,Média,Boa
+Ford,Ford EcoSport,SUV,2003,95–115 mil,9–12 (G/E),115–137,356 L,Média,Alta,Boa
+Ford,Ford Ka,Hatch,1997,65–75 mil,10–13 (G/E),85–105,257 L,Acessível,Alta,Regular
+Ford,Ford Ka Sedan,Sedan,2018,75–85 mil,10–13 (G/E),105,445 L,Acessível,Alta,Regular
+Ford,Ford Ranger,Picape,1998,190–250 mil,8–11 (D),160–200,1060 L,Cara,Baixa,Excelente
+GWM,GWM Haval H6,SUV,2021,210–250 mil,10–12 (H),169–187,560 L,Média,Média,Excelente
+Honda,Honda City,Sedan,1996,110–130 mil,11–13 (G/E),126,519 L,Média,Média,Boa
+Honda,Honda City Hatchback,Hatch,2021,115–135 mil,11–13 (G/E),126,300 L,Média,Média,Boa
+Honda,Honda Civic,Sedan,1972,150–180 mil,10–13 (G/H),140–155,519 L,Média,Baixa,Excelente
+Honda,Honda Fit,Hatch,2001,78–84 mil,12–14 (G/E),115,363 L,Acessível,Média,Boa
+Honda,Honda HR-V,SUV,2015,135–170 mil,10–12 (G/E),126–139,437 L,Média,Baixa,Boa
+Honda,Honda WR-V,SUV,2017,144–150 mil,8–13 (G/E),126,458 L,Média,Média,Boa
+Hyundai,Hyundai Creta,SUV,2017,135–170 mil,8–11 (G/E),130–166,422 L,Média,Média,Boa
+Hyundai,Hyundai HB20,Hatch,2012,80–92 mil,"11–13,8 (G/E)",80–120,300 L,Média,Média,Boa
+Hyundai,Hyundai HB20S,Sedan,2013,95–110 mil,11–13 (G/E),116,475 L,Média,Média,Boa
+Jeep,Jeep Commander,SUV,2021,220–260 mil,8–11 (G/E/D),170–185,661 L,Cara,Baixa,Excelente
+Jeep,Jeep Compass,SUV,2006,160–210 mil,8–11 (G/E/D/H),166–185,410 L,Média,Baixa,Excelente
+Jeep,Jeep Renegade,SUV,2015,115–145 mil,8–11 (G/E/D),130–185,320 L,Média,Alta,Boa
+Mitsubishi,Mitsubishi L200,Picape,1992,190–277 mil,9–12 (D),190–205,1046 L,Cara,Baixa,Excelente
+Nissan,Nissan Frontier,Picape,1997,190–250 mil,8–11 (D),190–200,1050 L,Cara,Baixa,Excelente
+Nissan,Nissan Kicks,SUV,2016,115–140 mil,11–13 (G/E),114,432 L,Média,Média,Boa
+Nissan,Nissan Versa,Sedan,2011,115–141 mil,8–14 (G/E),110–114,482 L,Acessível,Média,Boa
+Peugeot,Peugeot 208,Hatch,2012,90–110 mil,12–14 (G/E),118,311 L,Média,Média,Boa
+RAM,RAM Rampage,Picape,2023,230–270 mil,8–11 (D/G/E),170–272,980 L,Cara,Baixa,Excelente
+Renault,Renault Captur,SUV,2013,147–161 mil,8–11 (G/E),162–170,437 L,Média,Alta,Boa
+Renault,Renault Duster,SUV,2011,110–135 mil,9–12 (G/E),115–170,475 L,Acessível,Média,Boa
+Renault,Renault Kardian,SUV,2024,110–130 mil,12–14 (G/E),125,410 L,Acessível,Média,Boa
+Renault,Renault Kwid,Hatch,2017,65–75 mil,13–15 (G/E),68,290 L,Baixa,Alta,Regular
+Renault,Renault Logan,Sedan,2004,95–105 mil,10–14 (G/E),82–116,510 L,Acessível,Alta,Boa
+Renault,Renault Master,Furgão,1980,220–260 mil,8–10 (D),130–150,8.000 L,Cara,Média,Boa
+Renault,Renault Oroch,Picape,2015,110–130 mil,9–12 (G/E),115–143,683 L,Acessível,Média,Boa
+Renault,Renault Sandero,Hatch,2007,75–90 mil,11–13 (G/E),82–116,320 L,Acessível,Alta,Regular
+Toyota,Toyota Corolla,Sedan,1966,150–180 mil,10–13 (G/E/H),144–177,470 L,Média,Baixa,Excelente
+Toyota,Toyota Corolla Cross,SUV,2020,160–190 mil,10–13 (G/E/H),169,440 L,Média,Baixa,Excelente
+Toyota,Toyota Hilux,Picape,1968,220–280 mil,8–11 (D),150–204,1000 L,Cara,Baixa,Excelente
+Toyota,Toyota Hilux SW4,SUV,1996,412–475 mil,9–11 (D),204,500 L,Cara,Baixa,Excelente
+Toyota,Toyota Yaris Sedan,Sedan,2018,100–120 mil,11–13 (G/E),110,473 L,Média,Média,Boa
+VW,Volkswagen Fox/CrossFox,Hatch,2003,70–85 mil,11–13 (G/E),82–104,270 L,Acessível,Alta,Regular
+VW,Volkswagen Gol,Hatch,1980,70–85 mil,10–13 (G/E),84–104,285 L,Acessível,Alta,Regular
+VW,Volkswagen Nivus,SUV,2020,115–135 mil,11–13 (G/E),116,415 L,Média,Média,Boa
+VW,Volkswagen Polo,Hatch,2002,95–115 mil,11–13 (G/E),84–116,300 L,Média,Média,Boa
+VW,Volkswagen Saveiro,Picape,1982,95–115 mil,10–12 (G/E),84–104,734 L,Acessível,Média,Boa
+VW,Volkswagen T-Cross,SUV,2019,120–150 mil,9–12 (G/E),128–150,373 L,Média,Média,Boa
+VW,Volkswagen Taos,SUV,2021,160–190 mil,9–12 (G/E),150,498 L,Média,Média,Boa
+VW,Volkswagen Tera,SUV,2024,130–150 mil,10–12 (G/E),150,420 L,Média,Média,Boa
+VW,Volkswagen Virtus,Sedan,2018,105–125 mil,11–13 (G/E),116,521 L,Média,Média,Boa
+VW,Volkswagen Voyage,Sedan,1981,75–90 mil,10–13 (G/E),84–104,480 L,Acessível,Alta,Regular
